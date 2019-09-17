@@ -1,0 +1,21 @@
+{
+  "name": "hello-world-git-actions",
+  "version": "1.0.0",
+  "description": "First project using git actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eduardouliana/hello-world-git-actions.git"
+  },
+  "author": "Eduardo Antônio Uliana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eduardouliana/hello-world-git-actions.git/issues"
+  },
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
